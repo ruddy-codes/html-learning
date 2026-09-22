@@ -4,7 +4,7 @@ Welcome to my HTML Learning Journey repository.
 
 This repository contains all the projects, exercises, and experiments I build while learning HTML and the fundamentals of web development.
 
-I am currently learning web development through the Chai Aur Code Web Development course and using this repository to practice concepts by building small projects instead of only watching tutorials.
+I am currently learning web development through youtube and using this repository to practice concepts by building small projects instead of only watching tutorials.
 
 ---
 
