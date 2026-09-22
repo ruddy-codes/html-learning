@@ -1,6 +1,6 @@
 # HTML Learning Journey 🚀
 
-Welcome to my HTML Learning Journey repository.
+Welcome to my Web Developement Learning Journey repository.
 
 This repository contains all the projects, exercises, and experiments I build while learning HTML and the fundamentals of web development.
 
